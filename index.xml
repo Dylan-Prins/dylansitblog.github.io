@@ -5,6 +5,7 @@
     <link>https://dylansitblog.github.io/</link>
     <description>Recent posts from on Dylan&#39;s IT blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dylansitblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Feb 2022 20:08:44 +0100</lastBuildDate><atom:link href="https://dylansitblog.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
