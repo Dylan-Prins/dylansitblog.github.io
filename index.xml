@@ -9,15 +9,24 @@
       <link>https://dylansitblog.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 22 Feb 2022 20:08:44 +0100</lastBuildDate><atom:link href="https://dylansitblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Mar 2022 16:49:28 +0100</lastBuildDate><atom:link href="https://dylansitblog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://dylansitblog.github.io/posts/my-first-post/</link>
+      <title>Part2 Azure DevOps Agents With Container Apps in Bicep</title>
+      <link>https://dylansitblog.github.io/posts/part2-azure-devops-agents-with-container-apps-in-bicep/</link>
+      <pubDate>Sun, 06 Mar 2022 16:49:28 +0100</pubDate>
+      
+      <guid>https://dylansitblog.github.io/posts/part2-azure-devops-agents-with-container-apps-in-bicep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part 1: Azure DevOps agents with Container apps in bicep</title>
+      <link>https://dylansitblog.github.io/posts/part1-azure-devops-agents-with-container-apps-in-bicep/</link>
       <pubDate>Tue, 22 Feb 2022 20:08:44 +0100</pubDate>
       
-      <guid>https://dylansitblog.github.io/posts/my-first-post/</guid>
-      <description>Title 1 asdasd
-Header 2 some content</description>
+      <guid>https://dylansitblog.github.io/posts/part1-azure-devops-agents-with-container-apps-in-bicep/</guid>
+      <description>In my journy to find the best environment for Azure DevOps agents I have found (in my opinion) the best solution there is for now. I have tried multiple solutions for hosting the agents and I will explain the cons and pro&amp;rsquo;s of the tested solutions.
+   Solution Pro&amp;rsquo;s Cons     VM Scale set Fast, Only option when building containers Expensive   Container Instances Very cheap Not easy to scale   Kubernetes service Very scalable by using KEDA Expensive    And then Container apps came.</description>
     </item>
     
   </channel>
