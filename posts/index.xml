@@ -25,7 +25,7 @@
       <pubDate>Tue, 22 Feb 2022 20:08:44 +0100</pubDate>
       
       <guid>https://dylansitblog.github.io/posts/part1-azure-devops-agents-with-container-apps-in-bicep/</guid>
-      <description>In my journey to find the best environment for Azure DevOps agents I have found (in my opinion) the best solution there is for now. I have tried multiple solutions for hosting the agents and I will explain the cons and pro&amp;rsquo;s of the tested solutions.
+      <description>In my journey to find the best environment for Azure DevOps agents I have found a great solution to get scalable agents. I have tried multiple solutions for hosting the agents and I will explain the cons and pro&amp;rsquo;s of the tested solutions.
    Solution Pro&amp;rsquo;s Cons     VM Scale set Fast, Only option when building containers Expensive   Container Instances Very cheap Not easy to scale   Kubernetes service Very scalable by using KEDA Expensive    And then Container apps came.</description>
     </item>
     
