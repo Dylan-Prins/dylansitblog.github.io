@@ -9,23 +9,15 @@
       <link>https://dylansitblog.com/images/devops.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Mar 2022 16:49:28 +0100</lastBuildDate><atom:link href="https://dylansitblog.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Part2 Azure DevOps Agents With Container Apps in Bicep</title>
-      <link>https://dylansitblog.github.io/posts/part2-azure-devops-agents-with-container-apps-in-bicep/</link>
-      <pubDate>Sun, 06 Mar 2022 16:49:28 +0100</pubDate>
-      
-      <guid>https://dylansitblog.github.io/posts/part2-azure-devops-agents-with-container-apps-in-bicep/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 08 Mar 2022 20:08:44 +0100</lastBuildDate><atom:link href="https://dylansitblog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Part 1: Azure DevOps agents with Container apps in bicep</title>
       <link>https://dylansitblog.github.io/posts/part1-azure-devops-agents-with-container-apps-in-bicep/</link>
-      <pubDate>Tue, 22 Feb 2022 20:08:44 +0100</pubDate>
+      <pubDate>Tue, 08 Mar 2022 20:08:44 +0100</pubDate>
       
       <guid>https://dylansitblog.github.io/posts/part1-azure-devops-agents-with-container-apps-in-bicep/</guid>
-      <description>Requirements  In the guide I will use Azure CLI to deploy the bicep templates. A DevOps environment Visual code + Bicep extension will make your life easier.  Introduction This is the first part of a series of 2. The first part set-up a Azure DevOps agent within an Azure container registry. In the second part I will use this container to set-up Azure container apps. if you already have a DevOps container ready you can skip this and head straight on to Part 2: Azure DevOps agents with Container apps in bicep</description>
+      <description>Requirements  In the guide I will use Azure CLI to deploy the bicep templates. A DevOps environment Visual code + Bicep extension will make your life easier.  Introduction This is the first part of a series of 2. The first part set-up a Azure DevOps agent within an Azure container registry. In the second part I will use this container to set-up Azure container apps.
+In my journey to find the best environment for Azure DevOps agents I have found a great solution to get scalable agents.</description>
     </item>
     
   </channel>
